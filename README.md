@@ -1,4 +1,4 @@
-# Android device tree for Nokia Nokia G60 5G (APO_sprout)
+# Android device tree for HMD Global Nokia G60 5G (APO_sprout)
 
 The HMD Global Nokia G60 5G (codenamed _"apollo"_) is a mid-range smartphone from HMD Global announced in September 2022.
 
